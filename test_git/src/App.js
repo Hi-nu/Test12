@@ -1,6 +1,10 @@
+import Button from "./Button";
+
 function App() {
   return (
-    <div></div>
+    <div>
+      <Button></Button>
+    </div>
   );
 }
 
